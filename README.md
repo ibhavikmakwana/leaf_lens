@@ -2,6 +2,7 @@
 
 Leaf Lens: AI Plant Disease Diagnosis.
 
+Google Cloud credits are provided for this project. #GeminiSprint
 
 
 https://github.com/ibhavikmakwana/leaf_lens/assets/22465800/e926928c-5aaf-4910-a016-b26f67399812
